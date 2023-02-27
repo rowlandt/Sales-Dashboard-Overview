@@ -25,3 +25,4 @@ Through this analysis Superstore was overall able to see that both sales and pro
 
 The Executive Board and managers will be able to see the average sale, profit, and quantity from January to December for each segment, category, location and region. 
 
+[SALES DASHBOARD TABLEAU LINK](https://public.tableau.com/views/SuperstoreSalesDashboardOverview_16775167710760/SalesDashboarddark?:language=en-US&:display_count=n&:origin=viz_share_link) 
